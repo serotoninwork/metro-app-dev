@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>HelloWorld</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- HelloWorld references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <h1 class="headerClass">Hello, World!</h1>
+    <div class="mainContent">
+        <p>What's your name?</p>
+        <input id="nameInput" type="text" />
+        <button id="helloBtn">Say "Hello"</button>
+        <div id="greetingOutput"></div>
+        <label for="ratingControlDiv">
+            Rate this app:
+        </label>
+        <div id="ratingControlDiv" data-win-control="WinJS.UI.Rating"></div>
+        <div id="ratingOutput"></div>
+    </div>
+</body>
+</html>

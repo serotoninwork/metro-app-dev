@@ -1,0 +1,15 @@
+C:\Users\root\Desktop\vs-projects\HelloWorld\bin\Debug\ReverseMap\resources.pri
+C:\Users\root\Desktop\vs-projects\HelloWorld\bin\Debug\AppxManifest.xml
+C:\Users\root\Desktop\vs-projects\HelloWorld\bin\Debug\HelloWorld.build.appxrecipe
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\priconfig.xml
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\priconfig.xml.intermediate
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\layout.resfiles
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\layout.resfiles.intermediate
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\resources.resfiles
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\resources.resfiles.intermediate
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\pri.resfiles
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\pri.resfiles.intermediate
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\qualifiers.txt
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\qualifiers.txt.intermediate
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\root\Desktop\vs-projects\HelloWorld\bld\Debug\ProjectArchitectures.txt
