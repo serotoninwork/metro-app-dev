@@ -14,46 +14,46 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\root\Desktop\vs-projects\HelloWorld\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\root\Documents\GitHub\metro-app-dev\vs-projects\HelloWorld\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-12-22T19:14:17.204</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\root\Desktop\vs-projects\HelloWorld\default.html">
+    <AppxPackagedFile Include="C:\Users\root\Documents\GitHub\metro-app-dev\vs-projects\HelloWorld\default.html">
       <PackagePath>default.html</PackagePath>
       <Modified>2013-12-22T20:54:34.930</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\root\Desktop\vs-projects\HelloWorld\images\logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\root\Documents\GitHub\metro-app-dev\vs-projects\HelloWorld\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-22T08:19:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\root\Desktop\vs-projects\HelloWorld\images\smalllogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\root\Documents\GitHub\metro-app-dev\vs-projects\HelloWorld\images\smalllogo.scale-100.png">
       <PackagePath>images\smalllogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-22T08:19:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\root\Desktop\vs-projects\HelloWorld\images\splashscreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\root\Documents\GitHub\metro-app-dev\vs-projects\HelloWorld\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-22T08:19:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\root\Desktop\vs-projects\HelloWorld\images\storelogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\root\Documents\GitHub\metro-app-dev\vs-projects\HelloWorld\images\storelogo.scale-100.png">
       <PackagePath>images\storelogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-22T08:19:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\root\Desktop\vs-projects\HelloWorld\js\default.js">
+    <AppxPackagedFile Include="C:\Users\root\Documents\GitHub\metro-app-dev\vs-projects\HelloWorld\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2013-12-22T20:55:12.977</Modified>
+      <Modified>2013-12-26T20:57:33.019</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\root\Desktop\vs-projects\HelloWorld\css\default.css">
+    <AppxPackagedFile Include="C:\Users\root\Documents\GitHub\metro-app-dev\vs-projects\HelloWorld\css\default.css">
       <PackagePath>css\default.css</PackagePath>
       <Modified>2013-12-22T20:29:20.101</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\root\Desktop\vs-projects\HelloWorld\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\root\Documents\GitHub\metro-app-dev\vs-projects\HelloWorld\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2013-12-22T19:14:17.130</Modified>
     </AppxPackagedFile>
